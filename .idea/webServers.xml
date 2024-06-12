@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="ba406730-7c4a-481b-b00e-d55d8f9c4fc5" name="UCITR">
+        <fileTransfer accessType="SFTP" host="222.27.255.86" port="22" sshConfigId="7d7ad5de-33ae-48e6-9d66-79addd5ecd7d" sshConfig="实验室服务器">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
